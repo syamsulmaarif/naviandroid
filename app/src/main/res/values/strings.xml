@@ -1,0 +1,19 @@
+    <resources>
+    <string name="app_name">OprekAbisNavi</string>
+    <string name="logo">logo</string>
+    <string name="logo_desc">logo</string>
+    <string name="nav_item_attachment">attachment</string>
+    <string name="nav_item_images">nav image</string>
+    <string name="nav_item_location">nav place</string>
+    <string name="nav_sub_menu">sub menu</string>
+    <string name="nav_sub_menu_item01">sub menu nav 1</string>
+    <string name="nav_sub_menu_item02">sub menu nav 2</string>
+    <string name="drawer_header_text">header</string>
+    <string name="action_settings">setting</string>
+    <string name="hello_blank_fragment">Hello Lock</string>
+         <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string>
+</resources>
